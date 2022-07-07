@@ -1,1 +1,1 @@
-# Inverted-Pendulum-control
+# Cart-Pole Control
